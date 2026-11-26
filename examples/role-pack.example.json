@@ -1,0 +1,29 @@
+{
+  "date": "2026-01-15",
+  "rank": 1,
+  "company": "Example Bio Software",
+  "title": "Solutions Consultant, EMEA",
+  "location": "London (hybrid) or UK remote",
+  "pay": "Not listed. Estimate £60-70k base + bonus (marked as estimate)",
+  "why": "Presales for an R&D data platform sold to pharma and biotech; matches the target role family and pay band.",
+  "jobUrl": "https://jobs.example-ats.com/examplebio/123",
+  "applyUrl": "https://jobs.example-ats.com/examplebio/123/apply",
+  "linkNote": "Confirmed live on the employer's own board on 2026-01-15.",
+  "cvVerdict": "small tweaks",
+  "cvChanges": [
+    "Move the demo and workshop experience to the top of the profile.",
+    "Add one line on scientific data pipelines built with AI agents."
+  ],
+  "gaps": ["Listing asks for 3+ years in presales; CV shows adjacent experience."],
+  "letter": "Dear Hiring Team,\n\n(A full, role-specific letter in the candidate's voice goes here.)\n\nKind regards,\nYour Name",
+  "form": [
+    {"q": "First name", "a": "Your"},
+    {"q": "Why do you want to work at Example Bio? (500 chars)", "a": "(Answer in the candidate's voice, within the limit.)"},
+    {"q": "Do you require visa sponsorship?", "a": "", "flag": "⚠ Candidate to answer"}
+  ],
+  "beforeSubmit": [
+    "Attach the tweaked CV, not the default one.",
+    "Check the ⚠ answers."
+  ],
+  "status": "new"
+}

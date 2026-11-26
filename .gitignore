@@ -1,0 +1,8 @@
+# Personal data stays out of this repo
+*.pdf
+seen.csv
+applications.csv
+voice.md
+letters/
+packs/
+.env
